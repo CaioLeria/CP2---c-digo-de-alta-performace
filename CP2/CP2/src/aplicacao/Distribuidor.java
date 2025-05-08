@@ -8,6 +8,11 @@ import entidades.Encomenda;
 import entidades.Produto;
 import filas.*;
 
+//Nome completo: Caio V. Magalhães Leria 	RM: 557833
+//Nome completo: César Brasil Alves		    RM: 556236
+//Nome completo: Maria Eduarda Fiori 		RM: 559149
+//Nome completo: Lucas Moura Machado		RM: 557431
+//Nome completo: Pedro Salimon Nascimento	RM: 555038
 
 public class Distribuidor {
 	public static Scanner le = new Scanner(System.in);
